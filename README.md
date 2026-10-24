@@ -4,6 +4,8 @@ Premium phone cases, chargers, glass protectors and tech accessories for Banglad
 
 **Live site:** [eternitygadget.com](https://eternitygadget.com)
 
+**Made by Tahsan Islam.** Copyright (c) Tahsan Islam.
+
 Laravel storefront with Filament-style admin tooling, product options, wishlist, cart, checkout, order tracking, reward points, and mobile-first glass UI.
 
 ---
@@ -112,9 +114,10 @@ Never commit real `.env` credentials. Use `.env.production.example` as a templat
 ## Layout notes
 
 Header and mobile icon overflow were fixed so the floating glass header no longer uses a fixed Bootstrap `.container` width that pushed cart/wishlist icons outside the capsule on large and small screens. Category grids use a 2-column layout on phones for even alignment.
-
 ---
 
-## License
+## Author and copyright
 
-Private project for Eternity Gadget. All rights reserved.
+Everything in this project was designed and developed by **Tahsan Islam**.
+
+Copyright (c) 2026 **Tahsan Islam**. All rights reserved.
